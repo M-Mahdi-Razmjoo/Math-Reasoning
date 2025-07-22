@@ -1,5 +1,4 @@
-# Math Reasoning with Mistral-7B-Instruct
-
+# Math Reasoning with Mistral-7B-Instruct.
 This project evaluates the mathematical reasoning capabilities of the Mistral-7B-Instruct-v0.3 model on the GSM8K dataset using various prompting techniques. The goal is to assess how different prompting strategies impact the model's performance in solving grade-school-level math word problems.
 
 ## Project Overview
